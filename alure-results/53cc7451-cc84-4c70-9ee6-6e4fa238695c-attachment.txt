@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".btn.btn-light.active\"}\n  (Session info: chrome=111.0.5563.147)",
+  "stacktrace": "Backtrace:\n\t(No symbol) [0x002937D3]\n\t(No symbol) [0x00228B81]\n\t(No symbol) [0x0012B36D]\n\t(No symbol) [0x0015D382]\n\t(No symbol) [0x0015D4BB]\n\t(No symbol) [0x00193302]\n\t(No symbol) [0x0017B464]\n\t(No symbol) [0x00191215]\n\t(No symbol) [0x0017B216]\n\t(No symbol) [0x00150D97]\n\t(No symbol) [0x0015253D]\n\tGetHandleVerifier [0x0050ABF2+2510930]\n\tGetHandleVerifier [0x00538EC1+2700065]\n\tGetHandleVerifier [0x0053C86C+2714828]\n\tGetHandleVerifier [0x00343480+645344]\n\t(No symbol) [0x00230FD2]\n\t(No symbol) [0x00236C68]\n\t(No symbol) [0x00236D4B]\n\t(No symbol) [0x00240D6B]\n\tBaseThreadInitThunk [0x763E6BD9+25]\n\tRtlGetFullPathName_UEx [0x77878FD2+1218]\n\tRtlGetFullPathName_UEx [0x77878F9D+1165]\n\t(No symbol) [0x00000000]\n"
+}
