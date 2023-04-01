@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[onclick='Elements()']\"}\n  (Session info: chrome=111.0.5563.147)",
+  "stacktrace": "Backtrace:\n\t(No symbol) [0x009837D3]\n\t(No symbol) [0x00918B81]\n\t(No symbol) [0x0081B36D]\n\t(No symbol) [0x0084D382]\n\t(No symbol) [0x0084D4BB]\n\t(No symbol) [0x00883302]\n\t(No symbol) [0x0086B464]\n\t(No symbol) [0x00881215]\n\t(No symbol) [0x0086B216]\n\t(No symbol) [0x00840D97]\n\t(No symbol) [0x0084253D]\n\tGetHandleVerifier [0x00BFABF2+2510930]\n\tGetHandleVerifier [0x00C28EC1+2700065]\n\tGetHandleVerifier [0x00C2C86C+2714828]\n\tGetHandleVerifier [0x00A33480+645344]\n\t(No symbol) [0x00920FD2]\n\t(No symbol) [0x00926C68]\n\t(No symbol) [0x00926D4B]\n\t(No symbol) [0x00930D6B]\n\tBaseThreadInitThunk [0x75AE6BD9+25]\n\tRtlGetFullPathName_UEx [0x77658FD2+1218]\n\tRtlGetFullPathName_UEx [0x77658F9D+1165]\n"
+}

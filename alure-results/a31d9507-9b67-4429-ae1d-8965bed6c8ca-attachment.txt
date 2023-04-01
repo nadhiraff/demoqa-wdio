@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[text()='Add to cart']\"}\n  (Session info: chrome=111.0.5563.147)",
+  "stacktrace": "Backtrace:\n\t(No symbol) [0x009B37D3]\n\t(No symbol) [0x00948B81]\n\t(No symbol) [0x0084B36D]\n\t(No symbol) [0x0087D382]\n\t(No symbol) [0x0087D4BB]\n\t(No symbol) [0x008B3302]\n\t(No symbol) [0x0089B464]\n\t(No symbol) [0x008B1215]\n\t(No symbol) [0x0089B216]\n\t(No symbol) [0x00870D97]\n\t(No symbol) [0x0087253D]\n\tGetHandleVerifier [0x00C2ABF2+2510930]\n\tGetHandleVerifier [0x00C58EC1+2700065]\n\tGetHandleVerifier [0x00C5C86C+2714828]\n\tGetHandleVerifier [0x00A63480+645344]\n\t(No symbol) [0x00950FD2]\n\t(No symbol) [0x00956C68]\n\t(No symbol) [0x00956D4B]\n\t(No symbol) [0x00960D6B]\n\tBaseThreadInitThunk [0x75AE6BD9+25]\n\tRtlGetFullPathName_UEx [0x77658FD2+1218]\n\tRtlGetFullPathName_UEx [0x77658F9D+1165]\n"
+}
